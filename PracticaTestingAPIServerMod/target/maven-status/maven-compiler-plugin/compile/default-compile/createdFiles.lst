@@ -1,0 +1,5 @@
+com\iwcn\master\repositories\ProductRepository.class
+com\iwcn\master\controllers\AppController.class
+com\iwcn\master\entities\Product.class
+com\iwcn\master\PracticaTestingBootApp.class
+com\iwcn\master\services\ProductDataBase.class

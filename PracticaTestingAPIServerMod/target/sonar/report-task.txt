@@ -1,0 +1,6 @@
+projectKey=com.iwcn.master:PracticaSpringAPIServer
+serverUrl=http://localhost:9000
+serverVersion=6.6.0.32724
+dashboardUrl=http://localhost:9000/dashboard/index/com.iwcn.master:PracticaSpringAPIServer
+ceTaskId=AV-0ldPR6nWFkanhqBUo
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV-0ldPR6nWFkanhqBUo
